@@ -1,0 +1,8 @@
+edge-tts==7.3.1
+customtkinter==6.0.0
+pygame-ce==2.5.8
+Pillow==13.0.0
+sherpa-onnx==1.13.8
+numpy==2.5.4
+lameenc==1.9.0
+miniaudio==1.71

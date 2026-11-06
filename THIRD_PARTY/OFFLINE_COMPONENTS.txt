@@ -1,0 +1,22 @@
+sherpa-onnx 1.13.8
+https://github.com/k2-fsa/sherpa-onnx
+Apache licensed, as found in the LICENSE file
+
+sherpa-onnx-core 1.13.8
+https://github.com/k2-fsa/sherpa-onnx
+Apache-2.0
+
+numpy 2.5.4
+
+BSD-3-Clause AND 0BSD AND MIT AND Zlib AND CC0-1.0
+
+lameenc 1.9.0
+https://github.com/chrisstaite/lameenc
+LGPL-3.0-or-later
+
+Model files remain external. Preserve all license files supplied in model bundles.
+
+Local duration correction:
+- Chinese CTC model: https://huggingface.co/csukuangfj/sherpa-onnx-streaming-zipformer-small-ctc-zh-int8-2025-04-01
+- BBPE byte mapping derived from icefall byte_utils.py (Apache-2.0), see icefall-byte-utils-LICENSE.
+- FFmpeg separate executable: see FFmpeg-build.txt and FFmpeg-GPL-3.0.txt.

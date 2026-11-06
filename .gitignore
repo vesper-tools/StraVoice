@@ -1,0 +1,27 @@
+.venv/
+*.local.json
+.neutral-venv/
+neutral-engine/
+neutral-model/
+neutral-wheels/
+__pycache__/
+build/
+dist/
+release/
+packaging/dependencies/*.exe
+qa-*/
+models/
+dist-*/
+bin/
+samples/
+server-downloads/
+.workbuddy/
+disk-usage-audit.json
+recycle-usage-audit.json
+E盘空间检查报告.md
+
+# Local review artifacts
+backups/
+outputs/
+.impeccable/
+FreeVoice-source-for-review.zip
