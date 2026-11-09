@@ -6,8 +6,8 @@
 
 | Windows 10 / 11 64 位 | 如何使用 |
 | --- | --- |
-| [下载安装版](https://github.com/vesper-tools/StraVoice/releases/download/v1.0.0/StraVoice-1.0.0-windows-x64-setup.exe) | 运行安装程序，按向导完成安装。 |
-| [下载便携版](https://github.com/vesper-tools/StraVoice/releases/download/v1.0.0/StraVoice-1.0.0-windows-x64-portable.zip) | 完整解压 ZIP，运行 `星悦配音.exe`。首次运行可先安装 `prerequisites` 中的 VC++ x64 运行库。 |
+| [下载安装版](https://github.com/vesper-tools/StraVoice/releases/download/v1.0.1/StraVoice-1.0.1-windows-x64-setup.exe) | 运行安装程序，按向导完成安装。 |
+| [下载便携版](https://github.com/vesper-tools/StraVoice/releases/download/v1.0.1/StraVoice-1.0.1-windows-x64-portable.zip) | 完整解压 ZIP，运行 `星悦配音.exe`。首次运行可先安装 `prerequisites` 中的 VC++ x64 运行库。 |
 
 ![星悦配音工作台，左侧编辑文稿并调整朗读参数，右侧筛选和试听音色](docs/screenshots/workbench.png)
 
